@@ -27,7 +27,7 @@ I love exploring AI innovations, coding solutions, and impactful tech. Let’s c
 * I kicked off my journey with internships at <b>Stechnova Technology</b> (Dec 2022 - June 2023) and <b>Analysed.in</b> (Sept 2022 - Nov 2022), then started my Master’s in Artificial Intelligence at Rochester Institute of Technology in August 2023.
 * Along the way, I worked on cool projects like the <b>LLM-based AI Text Detector</b>, where I achieved 88% accuracy using autoencoders, and the <b>Passive-Aggressive Email Rewriter</b>, where I fine-tuned BERT and LLaMA to detect tone with 93% accuracy on AWS.
 * I've done multiple <b>End-to-End Projects</b> on various use cases such as Web Scraping, Chatbot Development, Natural Language Processing and Computer Vision.
-* Check out my Projects: [Machine Learning and AI Projects](https://github.com/vivekschaurasia)
+* Check out my Projects: [Machine Learning and AI Projects](https://github.com/vivekschaurasia?tab=repositories)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
