@@ -1,7 +1,5 @@
 <h1>Hi there, I'm <a href="https://vivekschaurasia.github.io/">Vivek Chaurasia</a>👋</h1>
 
-I'm an Artificial Intelligence and Machine Learning professional with 3+ years of experience in innovating and deploying AI models.  Driven by a deep passion for AI, I actively research open-source and industry-leading libraries and tools, build end-to-end projects across diverse use cases and domains, while concurrently working on <b>ZoomRx</b> as a <b>Data Science Associate</b>
-
 I’m a MS in <b>AI student at Rochester Institute of Technology</b> and I specialize in <b>NLP and computer vision</b>. I interned at Stechnova Technology <b>(ML, fine-tuned GPT, 78% satisfaction)</b> and Analysed.in <b>(CV, 10% accuracy boost)</b>. My projects include an <b>AI text detector (88% accuracy, autoencoders), a Passive-Aggressive Email Rewriter (BERT, LLaMA on AWS), a Personalized News Assistant (RAG, 85% accuracy), and an Image Captioning System (BLEU 0.35, TensorFlow)</b>. Skilled in <b>Python, TensorFlow, PyTorch, and AWS</b>. 
 
 
